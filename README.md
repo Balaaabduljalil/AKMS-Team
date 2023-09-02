@@ -5,8 +5,8 @@ Welcome to the Voice based language translatoe GitHub repository! The project ai
 ## STRUCTURE: <br> 
 The repository is structured as follows: <br> 
 
-backend/: This directory contains the backend code of the voice based Languages translator platform, including the API endpoints,technologies and framework, and business logic implemented in Python using the Flask framework.
-frontend/: Here, you will find the frontend code for the voice based languages translator platform, implemented using JavaScript, React, and Redux. 
+backend/: This directory contains the backend code of the voice based Languages translator platform, including the API endpoints,technologies and framework, and business logic implemented in Python using the Flask framework.<br> 
+frontend/: Here, you will find the frontend code for the voice based languages translator platform, implemented using JavaScript, React, and Redux. <br> 
 models/: This directory contains the trained Generative AI models used by voice based languages translator to enhance the platform's capabilities. The models are implemented using Python-based AI/ML libraries, and they play a crucial role in solving specific problems such Errors in text or speech, domian specific labguage, ambiguity and colloquialisms and slang among the selected african Languages. <br> 
 ## PURPOSE: <br> 
 The purpose of this repository is to provide a collaborative space for development and improvement of the voice based language translator platform among the selected african languages. By making the repository publicly accessible, we aim to foster community engagement, allowing developers, contributors, and users to explore the codebase, report issues, and suggest enhancements.
