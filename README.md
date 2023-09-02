@@ -11,16 +11,16 @@ This is not efficient like human translator, it is using the google translate pl
 • PlaySound Module <br> 
 • GoogleTrans Module <br>
 
-## Why GTTS Module? <br>
+# Why GTTS Module? 
 
 gTTS (Google Text-to-Speech)is a Python library and CLI tool to interface with Google Translate text-to-speech API. We will import the gTTS library from the gtts module which can be used for speech translation.
 
-Note: This module helps to convert text as voice output. 
+Note: This module helps to convert text as voice output. <br>
 
-## Why SpeechRecognition Module? 
+# Why SpeechRecognition Module? 
 
-This module gives the ability to perform speech recognition, basically, it could be used to convert speech to text operations.
+This module gives the ability to perform speech recognition, basically, it could be used to convert speech to text operations. <br>
 
-# Why Playsound Module? 
+# WhyPlaysound Module? 
 
 playsound is a “pure Python, cross platform, single function module with no dependencies for playing sounds.” With this module, you can play a sound file with a single line of code:
