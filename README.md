@@ -1,4 +1,4 @@
-to# AKMS-Team
+# AKMS-Team
 # VOICE BASED LANGUAGES TRANSLATORS AMONG FIVE SELECTED AFRICAN LANGUAGES. <br> 
 
 Welcome to the Voice based language translator GitHub repository! The project aim to solve the challanges of languages Barrie's among african continent by providing a real time voice translation among five selected african languages(Hausa, Igbo, Sesotho, Harari) using some python modules such as gTTs, SpeechRecognition, PlaySound and GoogleTrans. <br> 
